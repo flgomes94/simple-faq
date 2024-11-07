@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+    text-align: center;
+}
+.header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+.header p {
+    margin: 0.5rem 0 0;
+    color: #6c757d;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+.faq-item {
+    margin-bottom: 2rem;
+}
+.faq-item h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+.faq-item p, .faq-item ul, .faq-item ol {
+    margin-bottom: 1rem;
+}
+.faq-item ul, .faq-item ol {
+    padding-left: 1.5rem;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
