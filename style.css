@@ -4,10 +4,11 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
+    background-color: #f8f9fa;
 }
 .header {
-    background-color: #f8f9fa;
-    padding: 2rem 0;
+    background-color: #fff;
+    padding: 4rem 0;
     text-align: center;
 }
 .header h1 {
@@ -22,6 +23,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 2rem 1rem;
+
 }
 .faq-item {
     margin-bottom: 2rem;
